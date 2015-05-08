@@ -3,4 +3,4 @@ git commit -M "text message"
 git push -u origin master
 
 
-pull -u
+pull -u # this gets any new files from the server  that dont exist locally
