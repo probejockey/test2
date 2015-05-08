@@ -1,0 +1,83 @@
+total 33262
+drwxr-xr-x   82 gpoirie4 Administ    32768 May  6 14:18 .
+dr-xr-xr-x  409 gpoirie4 Administ   163840 May  7 12:58 ..
+-rw-r--r--    1 gpoirie4 Administ   594360 Nov 14  2011 11362361754079209290.pdf
+drwxr-xr-x    1 gpoirie4 Administ        0 Nov 19 15:52 2014 Pubs
+-rw-r--r--    1 gpoirie4 Administ   417511 Jul 25  2013 6495056424207718316.pdf
+-rw-r--r--    1 gpoirie4 Administ   367308 Jun 26  2011 711
+drwxr-xr-x    1 gpoirie4 Administ        0 Mar 25  2014 AMPH2012
+drwxr-xr-x    9 gpoirie4 Administ        0 May 12  2014 ARC Probelab
+-rw-r--r--    1 gpoirie4 Administ   250912 Jun 25  2011 CameraZOOM-20110625175451.jpg
+-rw-r--r--    1 gpoirie4 Administ    19480 Dec 15 11:07 Card Programming Request.docx
+-rw-r--r--    1 gpoirie4 Administ    12767 Jun 16  2011 Charge Rate Work Sheet.xlsx
+drwxr-xr-x    1 gpoirie4 Administ        0 May  6  2014 Cryostage
+-rw-r--r--    1 gpoirie4 Administ   390076 Mar  5  2014 Dept. meeting march 05 2014.pdf
+-rw-r--r--    1 gpoirie4 Administ   149903 Jul  2  2014 Door plate label.docx
+-rw-r--r--    1 gpoirie4 Administ  9370851 Nov  5  2014 EPMA in Geology.zip
+-rw-r--r--    1 gpoirie4 Administ    14329 Jul 10  2014 Erika-note.docx
+drwxr-xr-x   11 gpoirie4 Administ     4096 Apr  7 11:02 F in Apatite
+-rw-r--r--    1 gpoirie4 Administ  3147592 Feb 19  2013 F vs beta in topaz.tif
+-rw-r--r--    1 gpoirie4 Administ    40698 Feb 13  2014 Formula2wt%.xlsx
+-rw-r--r--    1 gpoirie4 Administ    14325 Feb  6  2014 GAC-MAC-Abstract probe lab.docx
+-rw-r--r--    1 gpoirie4 Administ    13904 Feb  5  2014 GAC-MAC-Status Report Joint University of Ottawa.docx
+-rw-r--r--    1 gpoirie4 Administ    13873 Aug  8  2014 Gas Tank Usage.docx
+-rw-r--r--    1 gpoirie4 Administ   273349 Oct  1  2014 Hg tetrahedrite.pdf
+-rw-r--r--    1 gpoirie4 Administ    45503 Apr 24 15:48 Hurray nerdy toys.docx
+-rw-r--r--    1 gpoirie4 Administ  1496299 Sep 21  2011 IMG_20110707_162615.jpg
+-rw-r--r--    1 gpoirie4 Administ  1525520 Sep 21  2011 IMG_20110912_090912.jpg
+-rw-r--r--    1 gpoirie4 Administ  1539760 Sep 21  2011 IMG_20110921_140759.jpg
+-rw-r--r--    1 gpoirie4 Administ  1633799 Sep 21  2011 IMG_20110921_140918.jpg
+drwxr-xr-x    4 gpoirie4 Administ        0 Dec  8 17:34 IOF Request
+-rw-r--r--    1 gpoirie4 Administ    11610 Oct 22  2014 ImageJ Macros Oct 22, 2014.zip
+-rw-r--r--    1 gpoirie4 Administ    25992 Jan  6 14:58 Jan-05-2015-Corning 159 run part 1-stds.xlsx
+-rw-r--r--    1 gpoirie4 Administ    22760 Jan  6 09:49 Jan-05-2015-Corning 159 run part 1.xlsx
+-rw-r--r--    1 gpoirie4 Administ    19786 Dec 15 11:07 Katherine Venance Programming Request.docx
+drwxr-xr-x    1 gpoirie4 Administ        0 Aug 11  2014 Manuals Etc
+-rw-r--r--    1 gpoirie4 Administ    15933 Apr 10  2013 Microanalysis Lab Annual report 2013.docx
+drwxr-xr-x    5 gpoirie4 Administ     4096 Feb 20  2014 Microprobe Lectures
+-rw-r--r--    1 gpoirie4 Administ    53008 Dec  2 15:16 Microprobe_SEM_Publications_2011_November 2014.docx
+-rw-r--r--    1 gpoirie4 Administ    37118 Nov 21 10:16 Microprobe_SEM_Publications_2011_October_2013.docx
+drwxr-xr-x   13 gpoirie4 Administ        0 Nov 14 11:05 Microprobeology
+-rw-r--r--    1 gpoirie4 Administ  1345467 Aug 26  2014 MoA with UofO Aug 2014(1).pdf
+drwxr-xr-x    1 gpoirie4 Administ        0 Oct 22  2014 New folder
+-rw-r--r--    1 gpoirie4 Administ   151186 Dec  8 08:50 No Wet Boots.docx
+-rw-r--r--    1 gpoirie4 Administ    13308 Jan 23 15:28 Notice.docx
+-rw-r--r--    1 gpoirie4 Administ  2296317 Jan 21  2014 OTTAWA, UNIVERSITY OF #12134 12-3-2013 GVC SLA.PDF
+-rw-r--r--    1 gpoirie4 Administ   412546 May  6 13:17 Off quant intensity correction error.docx
+-rw-r--r--    1 gpoirie4 Administ    14279 Jul 29  2013 Petty Cash Receipts.docx
+drwxr-xr-x    1 gpoirie4 Administ        0 Feb 17  2014 Phys 5120
+-rw-r--r--    1 gpoirie4 Administ   327562 Mar  4 09:51 Probe Mountsheet-1.png
+-rw-r--r--    1 gpoirie4 Administ   252436 Mar  4 09:49 Probe Mountsheet-16.png
+-rw-r--r--    1 gpoirie4 Administ    15040 Jul 10  2014 Probe and SEM Shutdown sequences.docx
+drwxr-xr-x    2 gpoirie4 Administ        0 Nov 25 10:19 SE
+drwxr-xr-x    1 gpoirie4 Administ        0 Mar 12 09:27 SEM Current Stability
+-rw-r--r--    1 gpoirie4 Administ  2883584 Jan 11  2014 SEM Usage1.accdb
+-rw-r--r--    1 gpoirie4 Administ   123001 Jan 21  2014 Service Estimate JSM-6610LV - JEE-420 Relocation.pdf
+-rw-r--r--    1 gpoirie4 Administ   126290 Jan 21  2014 Service Estimate JXA-8230 Relocation.pdf
+drwxr-xr-x   33 gpoirie4 Administ        0 Mar 11 13:49 Service Reports
+-rw-r--r--    1 gpoirie4 Administ   167541 Dec  4 11:08 Service estimate U Ottawa JSM-6610LV Oct2014.pdf
+-rw-r--r--    1 gpoirie4 Administ      543 Apr  8  2014 Standard Analysis.txt
+drwxr-xr-x    1 gpoirie4 Administ    16384 Aug  1  2014 Standards
+-rw-r--r--    1 gpoirie4 Administ    18673 Feb 19  2013 Status Report Joint University of Ottawa.docx
+dr-xr-xr-x    1 gpoirie4 Administ        0 May  6 11:31 Stopper
+drwxr-xr-x    1 gpoirie4 Administ        0 Oct 30  2014 Ta Position
+drwxr-xr-x   11 gpoirie4 Administ        0 Apr 29 10:25 Temperature Logs
+-rw-r--r--    1 gpoirie4 Administ    16882 Apr  2  2014 Thin section support.pdf
+-rw-r--r--    1 gpoirie4 Administ     4255 Apr  2  2014 Thin section support.svg
+-rw-r--r--    1 gpoirie4 Administ    99583 Oct 28  2014 Univ of Ottawa  eCopy of the JXA particle analsys instruction manual NDA.pdf
+-rw-r--r--    1 gpoirie4 Administ  6366490 Mar 25  2013 VWDS_setup.zip
+-rw-r--r--    1 gpoirie4 Administ  2218092 Jun 27  2011 agreement.final.signed.pdf
+-rw-r--r--    1 gpoirie4 Administ    17837 Jul  2  2014 door Labels.docx
+-rw-r--r--    1 gpoirie4 Administ  1692674 Jul 31  2014 j.1751-908X.2010.00114.x.pdf
+-rw-r--r--    1 gpoirie4 Administ   292377 Aug 19  2014 lab directions .jpg
+-rw-r--r--    1 gpoirie4 Administ   313071 Aug 19  2014 lab directions.docx
+-rw-r--r--    1 gpoirie4 Administ   453180 Aug 19  2014 lab directions.pdf
+-rw-r--r--    1 gpoirie4 Administ 16242688 Nov 14 11:08 locock amphibolesACES_1.xls
+-rw-r--r--    1 gpoirie4 Administ  1660069 Apr 24  2014 plugin-ACFrOgB-kmdrDV8bRPuwxsSTBD48rJeQxHSXSYeP9pIBlWwnDuMjEFSIGLc-9arLdEsvx-jsXaPvBcxQTaq5ZW38aOXj2YT7SA3XS5jkkivbaj_KmmpuYDQRNnfr5PY=.pdf
+-rw-r--r--    1 gpoirie4 Administ   366772 Aug 19  2014 presi cube quote.pdf
+-rw-r--r--    1 gpoirie4 Administ   720896 Jan 11  2014 probelog (C8026's conflicted copy 2014-01-14).accdb
+-rw-r--r--    1 gpoirie4 Administ  3276800 Jan 16  2014 probelog-2.accdb
+-rw-r--r--    1 gpoirie4 Administ   507904 Apr  9 15:52 probelog-2_be.accdb
+-rw-r--r--    1 gpoirie4 Administ  3276800 May  1 13:40 probelog-2_working.accdb
+-rw-r--r--    1 gpoirie4 Administ   458752 Jan 13  2014 probelog.accdb
+-rw-r--r--    1 gpoirie4 Administ   220226 Apr  8  2014 standard analyses.txt
