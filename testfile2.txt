@@ -1,0 +1,7 @@
+total 14
+drwxr-xr-x    6 gpoirie4 Administ     4096 May  8  2015 .
+drwxr-xr-x    6 gpoirie4 Administ     4096 May  8 15:51 ..
+drwxr-xr-x   12 gpoirie4 Administ     4096 May  8 16:02 .git
+-rw-r--r--    1 gpoirie4 Administ     6758 May  8 15:50 file2.txt
+-rw-r--r--    1 gpoirie4 Administ     7865 May  7 15:01 filelisting.txt
+-rw-r--r--    1 gpoirie4 Administ        0 May  8  2015 testfile2.txt
