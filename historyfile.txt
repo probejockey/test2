@@ -1,0 +1,71 @@
+    1  git config --global user.name "probejockey"
+    2  git config --global user.email "glennpoirier@gmail.com"
+    3  exit
+    4  pwd
+    5  ls -al
+    6  cd Assignment3
+    7  ls -al
+    8  cd Assignment3more best.R 
+    9  pwd
+   10  less best.R 
+   11  cd 
+   12  pwd
+   13  pwd
+   14  cd Dropbox/R-Course/Assignment2
+   15  ls
+   16  ls -al
+   17  touch file.txt
+   18  ls -al > file.txt 
+   19  less file.txt 
+   20  date
+   21  cd .git
+   22  ls
+   23  cd ..
+   24  git config -global user.name probejockey
+   25  git config --global user.name prob
+   26  git config -global user.email glennpoirier@gmail.com
+   27  git config --global user.email glennpoirier@gmail.com
+   28  env
+   29  env | grep glenn
+   30  git config --list
+   31  git config --list
+   32  pwd
+   33  cd ..
+   34  cd ..
+   35  mkdir Data_scientists Toolbox
+   36  cd Data_scientists/
+   37  mkdir test_repo
+   38  cd test_repo/
+   39  git init
+   40  git remote add origin https://github.com/probejockey/test_repo.git
+   41  ls
+   42  git branch
+   43  exit
+   44  cd Dropbox/
+   45  cd Data_scientists/test2
+   46  add -u
+   47  git add -A
+   48  git commit -m "this is the first commit"
+   49  git push
+   50  git remote add https://github.com/probejocket/test2
+   51  git remote add https://github.com/probejocket/test2.git
+   52  git remote add origin https://github.com/probejockey/test2.git
+   53  git push
+   54  git push
+   55  git push -u origin master
+   56  h
+   57  history
+   58  ls -al > testfile2.txt
+   59  ls
+   60  git add testfile2.txt
+   61  git commit -m "second commit"
+   62  git push
+   63  git push -u origin master
+   64  git add -a
+   65  git add -A
+   66  git commit -m "three"
+   67  vi testfile2.txt 
+   68  git commit -m "three"
+   69  git add -A
+   70  git commit -m "three"
+   71  history > historyfile.txt
