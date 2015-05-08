@@ -1,0 +1,6 @@
+git add -A
+git commit -M "text message"
+git push -u origin master
+
+
+pull -u
